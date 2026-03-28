@@ -10,9 +10,15 @@ Landing page institucional para clínica médica. Foco em conversão (agendament
 ---
 
 ## Preview
-
-
-
+<p align="center">
+  <img src="./screenshots/Screenshot_1.png" width="800"/>
+</p>
+<p align="center">
+  <img src="./screenshots/Screenshot_2.png" width="800"/>
+</p>
+<p align="center">
+  <img src="./screenshots/Screenshot_3.png" width="800"/>
+</p>
 ## Tech Stack
 
 - **Next.js 16** 
